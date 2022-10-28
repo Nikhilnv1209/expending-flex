@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'Archia';
+  src: url('./assets/Archia-Regular.otf');
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+#root {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* border: 4px solid black; */
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow-x: hidden;
+}
+
+
+
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Archia";
+}
