@@ -42,8 +42,8 @@ const App = () => {
       <div className="leftcontainer">
         <div className="heading">
           <div className="headings">{typewriter("Watch.",100,3000,100)}</div>
-          <div className="headings">{typewriter("Learn.",100,3000,110)}</div>
-          <div className="headings">{typewriter("Grow.",110,3000,160)}</div>
+          <div className="headings">{typewriter("Learn.",100,3000,120)}</div>
+          <div className="headings">{typewriter("Grow.",110,3000,140)}</div>
         </div>
         <Searchwrapper>
           <Searchbar placeholder="Find your passion" />
